@@ -2,4 +2,5 @@
 I in test1.txt
 this the 2nd line has been edited
 This is the 3rd line
-issue #2 is fixed.
+I've rechecked and fixed the issue #2.
+
